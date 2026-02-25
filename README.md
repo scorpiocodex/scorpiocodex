@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=SCORPIOX+SYSTEMS+v3.0.4;DEPLOYING+SECURE+ARCHITECTURES;ORCHESTRATING+SYSTEM+FLOWS;SIGNAL+STRENGTH:+OPTIMAL" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=700&lines=SCORPIOX+SYSTEMS+v3.1.0;DIGITAL+ARCHITECT+%E2%80%A2+SYSTEMS+ENGINEER;BUILDING+SECURE+PYTHON+INFRASTRUCTURE;NEXT-GEN+CLI-NATIVE+SYSTEMS;SIGNAL+STRENGTH:+OPTIMAL" alt="Header" />
 </div>
 
 <p align="center">
@@ -32,10 +32,10 @@
 
 | **LAYER** | **TECHNOLOGIES** |
 | :--- | :--- |
-| **CORE ENGINES** | `Python` `TypeScript` `Go` `C++` |
-| **SYSTEMS / CLI** | `Rich` `Click` `Docker` `Linux Kernel` `Git` |
-| **DATA & WEB** | `Django` `PostgreSQL` `Redis` `FastAPI` |
-| **SECURITY** | `AES-256` `JWT` `OAuth2` `SSL/TLS` |
+| **CORE ENGINES** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> |
+| **SYSTEMS / CLI** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Terminal-4EAA25?style=flat&logo=gnumetadataterminal&logoColor=white" /> |
+| **DATA & WEB** | <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" /> |
+| **SECURITY** | <img src="https://img.shields.io/badge/AES--256-00F2FF?style=flat&logo=shield" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" /> <img src="https://img.shields.io/badge/OAuth2-3DDC84?style=flat&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/SSL/TLS-8A2BE2?style=flat&logo=lock" /> |
 
 </div>
 
