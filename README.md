@@ -1,72 +1,301 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=700&lines=SCORPIOX+SYSTEMS;DIGITAL+ARCHITECT+%E2%80%A2+SYSTEMS+ENGINEER;BUILDING+SECURE+PYTHON+INFRASTRUCTURE;NEXT-GEN+CLI-NATIVE+SYSTEMS;SIGNAL+STRENGTH:+OPTIMAL" alt="Header" />
 
-  **Systems Engineer building secure, high-performance CLI-native infrastructure.**
+<pre>
+███████╗ ██████╗██████╗ ██████╗ ██████╗ ██╗ ██████╗ ██╗  ██╗
+██╔════╝██╔════╝██╔══██╗██╔══██╗██╔══██╗██║██╔═══██╗╚██╗██╔╝
+███████╗██║     ██║  ██║██████╔╝██████╔╝██║██║   ██║ ╚███╔╝ 
+╚════██║██║     ██║  ██║██╔══██╗██╔═══╝ ██║██║   ██║ ██╔██╗ 
+███████║╚██████╗╚██████╔╝██║  ██║██║    ██║╚██████╔╝██╔╝ ██╗
+╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝    ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+</pre>
+
+<p align="center">
+  <strong>SYSTEMS ENGINEER &bull; PYTHON ARCHITECT &bull; CLI INNOVATOR</strong><br>
+  <em>SAN SHIBU</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Initializing+Scorpiox+Environment...;Designing+next-gen+CLI+systems;Building+secure+Python+infrastructure;Engineering+the+terminal+future" alt="scorpiox digital architect typing" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IDEOLOGY-SECURITY_FIRST-8A2BE2?style=for-the-badge&logo=shield&logoColor=ffffff" alt="Security"/>
+  <img src="https://img.shields.io/badge/OS-Pop!__OS-39FF14?style=for-the-badge&logo=pop!_os&logoColor=111111" alt="Pop!_OS"/>
+  <img src="https://img.shields.io/badge/STACK-PYTHON_3-00FFCC?style=for-the-badge&logo=python&logoColor=111111" alt="Python"/>
+</p>
+
+<br/>
+
+<div align="center">
+  
+> **`STATUS: ONLINE`**  
+> *"I build terminal-native systems engineered for performance, clarity, and control.*  
+> *My tools are designed for those who believe the command line is not outdated — but evolving."*
+
 </div>
 
-<br />
-
-### 📟 SYSTEM CORE
-```text
-ID       : San Shibu
-CLASS    : Systems Engineer
-RANK     : Python Architect
-KERNEL   : Pop!_OS 22.04 LTS
-SHELL    : ZSH / Oh-My-Posh
-STATUS   : Available for Backend / Systems Engineering roles
-```
-
-<br />
-
-## 🚀 CURRENT FOCUS
-- 🏗️ **Infrastructure:** Building next-gen CLI-native tools and automation engines.
-- 🐍 **Backend:** Deepening mastery of Django, FastAPI, and high-concurrency REST architectures.
-- 🛡️ **Security:** Architecting security-first systems with a focus on performance and reliability.
-
-<br />
-
-## 🏗️ ARCHITECTURE STACK
-
-**CORE ENGINES**
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-
-**SYSTEMS / CLI**
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-
-**DATA & WEB**
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-
-**SECURITY**
-<img src="https://img.shields.io/badge/AES--256-00F2FF?style=flat" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" /> <img src="https://img.shields.io/badge/OAuth2-3DDC84?style=flat" /> <img src="https://img.shields.io/badge/SSL/TLS-8A2BE2?style=flat" />
-
-<br />
-
-## 🛰️ STRATEGIC DEPLOYMENTS
-*Showcased in my Pinned Repositories below:*
-
-- ⚡ **Fluxion:** Intelligent Network Command Engine for high-performance CLI environments.
-- 🌊 **Watchflow:** Real-time file system orchestration and automated pipeline management.
-- 🔐 **Termbackup:** Zero-knowledge encryption engine built for secure terminal-based backups.
-
-<br />
-
-## 🧠 ENGINEERING MANIFESTO
-> "Code is not just logic; it's the architecture of human intent. I build systems that are secure by design, efficient by nature, and terminal-first by choice."
-
-- **LOG_01:** Prioritize architecture over quick hacks.
-- **LOG_02:** Security is a core feature, not an afterthought.
-- **LOG_03:** Automation is the ultimate respect for time.
-
-<br />
-
-## 🤝 OPEN TO COLLABORATION
-- **Open-Source Systems:** Building robust, scalable kernels and tools.
-- **Backend Engineering:** Designing high-availability REST & GraphQL APIs.
-- **CLI Tooling & Security:** Creating specialized infrastructure for developers.
+<br/>
 
 ---
 
+### ⚡ SYS_INFO_PAYLOAD
+
+<div align="center">
+  <table width="600" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
+    <tr>
+      <td colspan="2" align="center" style="background-color: #161B22; border-bottom: 1px solid #30363D; padding: 10px;">
+        <code style="color: #8B949E;">[ TERMINAL UPLINK ESTABLISHED ]</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
+        <b style="color: #39FF14;">USER_PROFILE:</b>
+      </td>
+      <td width="70%" style="padding: 15px 15px 5px 10px;">
+        <code>Name&nbsp;&nbsp;&nbsp;: San Shibu</code><br>
+        <code>Alias&nbsp;&nbsp;: <b style="color: #FFFFFF;">scorpiocodex</b></code><br>
+        <code>Role&nbsp;&nbsp;&nbsp;: Systems Architect & Engineer</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
+        <b style="color: #00FFCC;">CORE_FOCUS:</b>
+      </td>
+      <td width="70%" style="padding: 15px 15px 5px 10px;">
+        <code>[0] Python Architecture</code><br>
+        <code>[1] Advanced CLI Tooling</code><br>
+        <code>[2] Web Engineering</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="right" style="padding: 15px 10px 15px 15px;">
+        <b style="color: #8A2BE2;">ENVIRONMENT:</b>
+      </td>
+      <td width="70%" style="padding: 15px 15px 15px 10px;">
+        <code>OS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Pop!_OS 22.04 LTS</code><br>
+        <code>Ideology : Clean Arch + Security First</code><br>
+        <code>Editor&nbsp;&nbsp;&nbsp;: VS Code / Vim / CLI Native</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### ⚙️ CORE_ARCHITECTURE
+
+*Conceptual architecture of infrastructure tooling*
+
+<div align="center">
+  <table width="600" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
+    <tr>
+      <td colspan="5" align="center" style="background-color: #161B22; border-bottom: 1px solid #30363D; padding: 10px;">
+        <code style="color: #8B949E;">[ INFRASTRUCTURE TOPOLOGY ]</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 15px 5px 15px 10px;">
+        <img src="https://img.shields.io/badge/Terminal_UI-CLI-00FFCC?style=flat-square&logo=gnu-terminal&logoColor=111111" alt="CLI"/>
+      </td>
+      <td align="center" style="padding: 15px 5px;">
+        <code style="color: #8B949E;">➔</code>
+      </td>
+      <td align="center" style="padding: 15px 5px;">
+        <img src="https://img.shields.io/badge/Scorpiox_Engine-Core-8A2BE2?style=flat-square&logo=python&logoColor=ffffff" alt="CoreEngine"/>
+      </td>
+      <td align="center" style="padding: 15px 5px;">
+        <code style="color: #8B949E;">➔</code>
+      </td>
+      <td align="center" style="padding: 15px 10px 15px 5px;">
+        <img src="https://img.shields.io/badge/Modules-Fluxion/Watchflow-39FF14?style=flat-square&logo=cogs&logoColor=111111" alt="Modules"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🔌 TECH_STACK_MATRIX
+
+<div align="center">
+  <table width="600" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
+    <tr>
+      <td colspan="2" align="center" style="background-color: #161B22; border-bottom: 1px solid #30363D; padding: 10px;">
+        <code style="color: #8B949E;">[ STACK ENUMERATION ]</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
+        <b style="color: #39FF14;">CORE_LANG:</b>
+      </td>
+      <td width="70%" style="padding: 15px 15px 5px 10px;">
+        <code>Python &bull; TypeScript &bull; JavaScript</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
+        <b style="color: #00FFCC;">CLI_UX:</b>
+      </td>
+      <td width="70%" style="padding: 15px 15px 5px 10px;">
+        <code>Rich (Terminal UI) &bull; Advanced Logging</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
+        <b style="color: #8A2BE2;">WEBAPP:</b>
+      </td>
+      <td width="70%" style="padding: 15px 15px 5px 10px;">
+        <code>Django &bull; Express &bull; Node.js &bull; REST API</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="right" style="padding: 15px 10px 15px 15px;">
+        <b style="color: #FF0055;">ENV:</b>
+      </td>
+      <td width="70%" style="padding: 15px 15px 15px 10px;">
+        <code>Linux-First &bull; Git Internals &bull; Docker</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🚀 FLAGSHIP_MODULES
+
+<div align="center">
+  <table width="600" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
+    <tr>
+      <td colspan="2" align="center" style="background-color: #161B22; border-bottom: 1px solid #30363D; padding: 10px;">
+        <code style="color: #8B949E;">[ DEPLOYED ARCHITECTURE ]</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
+        <b style="color: #00FFCC;">[ 🔐 Termbackup ]</b>
+      </td>
+      <td width="70%" style="padding: 15px 15px 5px 10px;">
+        <code>Zero-knowledge backup engine.</code><br>
+        <code style="color: #8B949E;">▹ Secure encryption model</code><br>
+        <code style="color: #8B949E;">▹ CLI-driven UX natively scalability</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
+        <b style="color: #39FF14;">[ ⚡ Watchflow ]</b>
+      </td>
+      <td width="70%" style="padding: 15px 15px 5px 10px;">
+        <code>High-perf file system observer.</code><br>
+        <code style="color: #8B949E;">▹ Microsecond responsiveness trigger pipeline</code><br>
+        <code style="color: #8B949E;">▹ Minimal resource footprint</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="right" style="padding: 15px 10px 15px 15px;">
+        <b style="color: #8A2BE2;">[ 🌀 Fluxion ]</b>
+      </td>
+      <td width="70%" style="padding: 15px 15px 15px 10px;">
+        <code>Next-gen infrastructure state manager.</code><br>
+        <code style="color: #8B949E;">▹ Declarative design architecture</code><br>
+        <code style="color: #8B949E;">▹ Resilient state control</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🧠 ENGINEERING_PHILOSOPHY
+
+<div align="center">
+  <table width="600" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
+    <tr>
+      <td align="center" style="background-color: #161B22; border-bottom: 1px solid #30363D; padding: 10px;">
+        <code style="color: #8B949E;">[ CORE DIRECTIVES ]</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 20px 15px 20px 15px;">
+        <code><span style="color:#FF0055">systems</span> > <span style="color:#8B949E">scripts</span></code> &nbsp;&bull;&nbsp;
+        <code><span style="color:#00FFCC">architecture</span> > <span style="color:#8B949E">hacks</span></code><br><br>
+        <code><span style="color:#39FF14">cli_ux</span> == <span style="color:#FFFFFF">critical</span></code> &nbsp;&bull;&nbsp;
+        <code><span style="color:#8A2BE2">security</span> >= <span style="color:#FFFFFF">everything</span></code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 METRICS_&_TELEMETRY
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scorpiocodex&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=8A2BE2&currStreakLabel=39FF14" alt="GitHub Streak" />
+</div>
+
+> _`SYS_NOTE`: Routine telemetry displays are streamlined for optimal performance. Experimental API stats modules have been decoupled._
+
+---
+
+### 🛰️ CURRENT_TRAJECTORY
+
+<div align="center">
+  <table width="600" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
+    <tr>
+      <td colspan="2" align="center" style="background-color: #161B22; border-bottom: 1px solid #30363D; padding: 10px;">
+        <code style="color: #8B949E;">[ ACTIVE OPERATIONS ]</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
+        <b style="color: #00FFCC;">🧠 Learning:</b>
+      </td>
+      <td width="70%" style="padding: 15px 15px 5px 10px;">
+        <code>Advanced Django & deep backend scaling</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
+        <b style="color: #8A2BE2;">🏗️ Mastering:</b>
+      </td>
+      <td width="70%" style="padding: 15px 15px 5px 10px;">
+        <code>REST architecture and API design patterns</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
+        <b style="color: #39FF14;">🛠️ Building:</b>
+      </td>
+      <td width="70%" style="padding: 15px 15px 5px 10px;">
+        <code>Next-gen CLI frameworks for modern devs</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="right" style="padding: 15px 10px 15px 15px;">
+        <b style="color: #FF0055;">🔐 Deepening:</b>
+      </td>
+      <td width="70%" style="padding: 15px 15px 15px 10px;">
+        <code>Security engineering & zero-trust principles</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📧 SECURE_HANDSHAKE
+
+<div align="center">
+  <a href="https://github.com/scorpiocodex">
+    <img src="https://img.shields.io/badge/GitHub-scorpiocodex-111111?style=for-the-badge&logo=github&logoColor=00FFCC" alt="GitHub"/>
+  </a>
+  <a href="mailto:scorpiocodex0@gmail.com">
+    <img src="https://img.shields.io/badge/Comm-Encrypted_Channel-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=ffffff" alt="Email"/>
+  </a>
+</div>
+
+<br/>
+
 <p align="center">
-  <b>SCORPIOX</b> // <a href="https://linkedin.com/in/san-shibu">Let's connect on LinkedIn</a> // <a href="mailto:scorpiocodex0@gmail.com">scorpiocodex0@gmail.com</a>
-  <br><i>"Let's build infrastructure that matters."</i>
+  <small><code>sys.exit(0) // SCORPIOX_ARCHITECTURE_END</code></small>
 </p>
