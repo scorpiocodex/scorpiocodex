@@ -1,29 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=SCORPIOX+SYSTEMS+v2.6;DIGITAL+ARCHITECT+ONLINE;INITIATING+TERMINAL+INTERFACE" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=SCORPIOX+SYSTEMS+v3.0.4;DEPLOYING+SECURE+ARCHITECTURES;ORCHESTRATING+SYSTEM+FLOWS;SIGNAL+STRENGTH:+OPTIMAL" alt="Header" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=scorpiocodex&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=scorpiocodex&theme=tokyonight&no-bg=true&margin-w=15&column=3" alt="Trophies" />
 </p>
 
 ---
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3>📟 SYSTEM CORE</h3>
-      <pre>
+    <td width="100%" valign="top">
+      <h3 align="center">📟 SYSTEM CORE</h3>
+      <pre align="center">
 <b>ID</b>       : San Shibu
 <b>CLASS</b>    : Systems Engineer
 <b>RANK</b>     : Python Architect
 <b>KERNEL</b>   : Pop!_OS 22.04 LTS
 <b>SHELL</b>    : ZSH / Oh-My-Posh
-<b>UPLINK</b>   : <a href="mailto:san@example.com">Connected</a>
+<b>UPLINK</b>   : <a href="mailto:scorpiocodex0@gmail.com">scorpiocodex0@gmail.com</a>
       </pre>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 PERFORMANCE METER</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=scorpiocodex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=ffffff&icon_color=8A2BE2" width="100%" />
     </td>
   </tr>
 </table>
@@ -54,44 +50,45 @@
 
 ## 🛰️ STRATEGIC DEPLOYMENTS
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/PROJECT-TERM_BACKUP-00F2FF?style=for-the-badge&logo=shield" /><br>
-      <em>Zero-knowledge encryption engine. Built for the terminal elite.</em>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/PROJECT-WATCH_FLOW-8A2BE2?style=for-the-badge&logo=git" /><br>
-      <em>Real-time file system orchestration & automation pipeline.</em>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/PROJECT-FLUXION-00FF41?style=for-the-badge&logo=python" /><br>
-      <em>High-performance CLI framework with modular plugin architecture.</em>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/STATUS-ACTIVE_RESEARCH-FFD700?style=for-the-badge&logo=django" /><br>
-      <em>Optimizing REST architectures for high-concurrency systems.</em>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/scorpiocodex/Fluxion">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scorpiocodex&repo=Fluxion&theme=tokyonight&bg_color=0D1117&title_color=00F2FF&text_color=ffffff&icon_color=8A2BE2&hide_border=true" />
+  </a>
+  <a href="https://github.com/scorpiocodex/Watchflow">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scorpiocodex&repo=Watchflow&theme=tokyonight&bg_color=0D1117&title_color=00F2FF&text_color=ffffff&icon_color=8A2BE2&hide_border=true" />
+  </a>
+</div>
+<br />
+<div align="center">
+  <a href="https://github.com/scorpiocodex/Termbackup">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scorpiocodex&repo=Termbackup&theme=tokyonight&bg_color=0D1117&title_color=00F2FF&text_color=ffffff&icon_color=8A2BE2&hide_border=true" />
+  </a>
+  <a href="https://github.com/scorpiocodex/portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scorpiocodex&repo=portfolio&theme=tokyonight&bg_color=0D1117&title_color=00F2FF&text_color=ffffff&icon_color=8A2BE2&hide_border=true" />
+  </a>
+</div>
 
 ---
 
 ## 🧠 ENGINEERING MANIFESTO
 
-> "The CLI is not a legacy interface; it is the most efficient bridge between human intent and machine execution. I build that bridge to be unbreakable, secure, and beautiful."
+<p align="center">
+  <i>"Code is not just logic; it's the architecture of human intent. I build systems that are secure by design, efficient by nature, and terminal-first by choice."</i>
+</p>
 
-<details>
-<summary><b>[ CLICK TO VIEW SYSTEM LOGS ]</b></summary>
-<br>
-- <b>Log 01:</b> Prioritize architecture over quick hacks.<br>
-- <b>Log 02:</b> Security is a feature, not a patch.<br>
-- <b>Log 03:</b> Automation is the ultimate form of respect for time.
-</details>
+<div align="center">
+  <code><b>LOG_01:</b> ARCHITECTURE > HACKS</code> &nbsp; | &nbsp;
+  <code><b>LOG_02:</b> SECURITY IS NOT A PATCH</code> &nbsp; | &nbsp;
+  <code><b>LOG_03:</b> AUTOMATE EVERYTHING</code>
+</div>
 
 ---
+
+## ⚡ ANALYTICS TERMINAL
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=scorpiocodex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=ffffff&icon_color=8A2BE2" width="100%" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpiocodex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=ffffff" width="45%" />
