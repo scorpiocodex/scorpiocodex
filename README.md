@@ -15,12 +15,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Initializing+Dev+Environment...;Designing+next-gen+CLI+systems;Building+secure+Python+infrastructure;Engineering+the+terminal+future" alt="scorpiox digital architect typing" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Initializing+Dev+Environment...;Designing+next-gen+CLI+systems;Building+secure+Python+infrastructure;Engineering+the+terminal+future" alt="scorpiocodex digital architect typing" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/IDEOLOGY-SECURITY_FIRST-8A2BE2?style=for-the-badge&logo=shield&logoColor=ffffff" alt="Security"/>
-  <img src="https://img.shields.io/badge/OS-Pop!__OS-39FF14?style=for-the-badge&logo=pop!_os&logoColor=111111" alt="Pop!_OS"/>
+  <img src="https://img.shields.io/badge/OS-Ubuntu-39FF14?style=for-the-badge&logo=ubuntu&logoColor=111111" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/STACK-PYTHON_3-00FFCC?style=for-the-badge&logo=python&logoColor=111111" alt="Python"/>
 </p>
 
@@ -72,7 +72,7 @@
         <b style="color: #8A2BE2;">ENVIRONMENT:</b>
       </td>
       <td width="70%" style="padding: 15px 15px 15px 10px;">
-        <code>OS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Pop!_OS 22.04 LTS</code><br>
+        <code>OS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Ubuntu 24.04 LTS</code><br>
         <code>Ideology : Clean Arch + Security First</code><br>
         <code>Editor&nbsp;&nbsp;&nbsp;: VS Code / Vim / CLI Native</code>
       </td>
@@ -172,32 +172,12 @@
     </tr>
     <tr>
       <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
-        <b style="color: #00FFCC;">[ 🔐 Termbackup ]</b>
+        <b style="color: #00FFCC;">[ 🔐 Nyxora ]</b>
       </td>
       <td width="70%" style="padding: 15px 15px 5px 10px;">
-        <code>Zero-knowledge backup engine.</code><br>
+        <code>Zero-knowledge secure vault.</code><br>
         <code style="color: #8B949E;">▹ Secure encryption model</code><br>
         <code style="color: #8B949E;">▹ CLI-driven UX natively scalability</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
-        <b style="color: #39FF14;">[ ⚡ Watchflow ]</b>
-      </td>
-      <td width="70%" style="padding: 15px 15px 5px 10px;">
-        <code>High-perf file system observer.</code><br>
-        <code style="color: #8B949E;">▹ Microsecond responsiveness trigger pipeline</code><br>
-        <code style="color: #8B949E;">▹ Minimal resource footprint</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="right" style="padding: 15px 10px 15px 15px;">
-        <b style="color: #8A2BE2;">[ 🌀 Fluxion ]</b>
-      </td>
-      <td width="70%" style="padding: 15px 15px 15px 10px;">
-        <code>Next-gen infrastructure state manager.</code><br>
-        <code style="color: #8B949E;">▹ Declarative design architecture</code><br>
-        <code style="color: #8B949E;">▹ Resilient state control</code>
       </td>
     </tr>
   </table>
@@ -297,5 +277,5 @@
 <br/>
 
 <p align="center">
-  <small><code>sys.exit(0) // SCORPIOX_ARCHITECTURE_END</code></small>
+  <small><code>sys.exit(0) // SCORPIOCODEX_ARCHITECTURE_END</code></small>
 </p>
