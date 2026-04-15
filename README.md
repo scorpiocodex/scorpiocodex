@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Initializing+Scorpiox+Environment...;Designing+next-gen+CLI+systems;Building+secure+Python+infrastructure;Engineering+the+terminal+future" alt="scorpiox digital architect typing" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Initializing+Dev+Environment...;Designing+next-gen+CLI+systems;Building+secure+Python+infrastructure;Engineering+the+terminal+future" alt="scorpiox digital architect typing" />
 </p>
 
 <p align="center">
