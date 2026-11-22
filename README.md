@@ -39,7 +39,7 @@ An offline terminal password manager with a Textual TUI: Argon2id, XChaCha20-Pol
 
 ## Stack
 
-| | |
+| Area | Tools |
 | --- | --- |
 | **Languages** | Python · JavaScript · SQL · HTML/CSS |
 | **Backend** | FastAPI · Celery · Redis · PostgreSQL · SQLAlchemy · Alembic · REST APIs · JWT · asyncio · Node.js · Express |
