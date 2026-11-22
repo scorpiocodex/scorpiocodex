@@ -1,281 +1,55 @@
-<div align="center">
+<img src="assets/cover.png" alt="Building full-stack apps and dev tools: FastAPI, PostgreSQL, React, LLM-powered automation, open-source Python on PyPI" width="100%">
 
-<pre>
-███████╗ ██████╗ ██████╗ ██████╗ ██████╗ ██╗ ██████╗  ██████╗ ██████╗ ██████╗ ███████╗██╗  ██╗
-██╔════╝██╔════╝██╔═══██╗██╔══██╗██╔══██╗██║██╔═══██╗██╔════╝██╔═══██╗██╔══██╗██╔════╝╚██╗██╔╝
-███████╗██║     ██║   ██║██████╔╝██████╔╝██║██║   ██║██║     ██║   ██║██║  ██║█████╗   ╚███╔╝ 
-╚════██║██║     ██║   ██║██╔══██╗██╔═══╝ ██║██║   ██║██║     ██║   ██║██║  ██║██╔══╝   ██╔██╗ 
-███████║╚██████╗╚██████╔╝██║  ██║██║     ██║╚██████╔╝╚██████╗╚██████╔╝██████╔╝███████╗██╔╝ ██╗
-╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-</pre>
+# Hi, I'm San 👋
 
-<p align="center">
-  <strong>SYSTEMS ENGINEER &bull; PYTHON ARCHITECT &bull; CLI INNOVATOR</strong><br>
-  <em>SAN SHIBU</em>
-</p>
+Python full-stack developer based in Kerala, India. I build **FastAPI + PostgreSQL** backends, **React** front ends, **LLM-powered automation** and open-source Python tools published on **PyPI**.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Initializing+Dev+Environment...;Designing+next-gen+CLI+systems;Building+secure+Python+infrastructure;Engineering+the+terminal+future" alt="scorpiocodex digital architect typing" />
-</p>
+I'm looking for a Python backend or full-stack developer role.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IDEOLOGY-SECURITY_FIRST-8A2BE2?style=for-the-badge&logo=shield&logoColor=ffffff" alt="Security"/>
-  <img src="https://img.shields.io/badge/OS-Ubuntu-39FF14?style=for-the-badge&logo=ubuntu&logoColor=111111" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/STACK-PYTHON_3-00FFCC?style=for-the-badge&logo=python&logoColor=111111" alt="Python"/>
-</p>
-
-<br/>
-
-<div align="center">
-  
-> **`STATUS: ONLINE`**  
-> *"I build terminal-native systems engineered for performance, clarity, and control.*  
-> *My tools are designed for those who believe the command line is not outdated — but evolving."*
-
-</div>
-
-<br/>
+🌐 [Portfolio](https://san-shibu.vercel.app) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/san-shibu-8250a9178/) &nbsp;·&nbsp; ✉️ [sanshibu.dev@gmail.com](mailto:sanshibu.dev@gmail.com)
 
 ---
 
-### ⚡ SYS_INFO_PAYLOAD
+## What I've built
 
-<div align="center">
-  <table width="600" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
-    <tr>
-      <td colspan="2" align="center" style="background-color: #161B22; border-bottom: 1px solid #30363D; padding: 10px;">
-        <code style="color: #8B949E;">[ TERMINAL UPLINK ESTABLISHED ]</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
-        <b style="color: #39FF14;">USER_PROFILE:</b>
-      </td>
-      <td width="70%" style="padding: 15px 15px 5px 10px;">
-        <code>Name&nbsp;&nbsp;&nbsp;: San Shibu</code><br>
-        <code>Alias&nbsp;&nbsp;: <b style="color: #FFFFFF;">scorpiocodex</b></code><br>
-        <code>Role&nbsp;&nbsp;&nbsp;: Systems Architect & Engineer</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
-        <b style="color: #00FFCC;">CORE_FOCUS:</b>
-      </td>
-      <td width="70%" style="padding: 15px 15px 5px 10px;">
-        <code>[0] Python Architecture</code><br>
-        <code>[1] Advanced CLI Tooling</code><br>
-        <code>[2] Web Engineering</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="right" style="padding: 15px 10px 15px 15px;">
-        <b style="color: #8A2BE2;">ENVIRONMENT:</b>
-      </td>
-      <td width="70%" style="padding: 15px 15px 15px 10px;">
-        <code>OS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Ubuntu 24.04 LTS</code><br>
-        <code>Ideology : Clean Arch + Security First</code><br>
-        <code>Editor&nbsp;&nbsp;&nbsp;: VS Code / Vim / CLI Native</code>
-      </td>
-    </tr>
-  </table>
-</div>
+### [BakeriQ](https://github.com/scorpiocodex/bakeriq)
+
+A WhatsApp-first bakery order management platform, built end to end during my full-stack internship at Digital Mesh Softech.
+
+- FastAPI and PostgreSQL backend with Celery and Redis for background jobs
+- Two React/Vite front ends (owner dashboard and customer ordering app), all run in Docker Compose
+- A local Llama 3.2 model (via Ollama) turns free-text WhatsApp orders in English and Manglish into validated carts, at zero API cost
+- 371 automated tests and 26 architecture decision records
+
+### [ScorpioWatch](https://github.com/scorpiocodex/scorpiowatch) &nbsp;·&nbsp; [PyPI](https://pypi.org/project/scorpiowatch/)
+
+An event-driven automation engine: it watches files, matches glob triggers and runs your commands through the `swatch` CLI.
+
+- Commands run with no shell and an allow-listed environment; per-step timeouts stop the whole process group
+- 100% test coverage with `mypy --strict`; releases ship through GitHub Actions and PyPI Trusted Publishing
+
+### [Nyxora](https://github.com/scorpiocodex/Nyxora) &nbsp;·&nbsp; [PyPI](https://pypi.org/project/nyxora/)
+
+An offline terminal password manager with a Textual TUI: Argon2id, XChaCha20-Poly1305 and per-entry HMAC integrity checks.
+
+- Cross-platform CI with secret scanning, dependency CVE checks and 8 required merge checks
+- A personal project; it has not been independently audited
 
 ---
 
-### ⚙️ CORE_ARCHITECTURE
+## Stack
 
-*Conceptual architecture of infrastructure tooling*
-
-<div align="center">
-  <table width="600" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
-    <tr>
-      <td colspan="5" align="center" style="background-color: #161B22; border-bottom: 1px solid #30363D; padding: 10px;">
-        <code style="color: #8B949E;">[ INFRASTRUCTURE TOPOLOGY ]</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 15px 5px 15px 10px;">
-        <img src="https://img.shields.io/badge/Terminal_UI-CLI-00FFCC?style=flat-square&logo=gnu-terminal&logoColor=111111" alt="CLI"/>
-      </td>
-      <td align="center" style="padding: 15px 5px;">
-        <code style="color: #8B949E;">➔</code>
-      </td>
-      <td align="center" style="padding: 15px 5px;">
-        <img src="https://img.shields.io/badge/Scorpiox_Engine-Core-8A2BE2?style=flat-square&logo=python&logoColor=ffffff" alt="CoreEngine"/>
-      </td>
-      <td align="center" style="padding: 15px 5px;">
-        <code style="color: #8B949E;">➔</code>
-      </td>
-      <td align="center" style="padding: 15px 10px 15px 5px;">
-        <img src="https://img.shields.io/badge/Modules-Fluxion/Watchflow-39FF14?style=flat-square&logo=cogs&logoColor=111111" alt="Modules"/>
-      </td>
-    </tr>
-  </table>
-</div>
+| Area | Tools |
+| --- | --- |
+| **Languages** | Python · JavaScript · SQL · HTML/CSS |
+| **Backend** | FastAPI · Celery · Redis · PostgreSQL · SQLAlchemy · Alembic · REST APIs · JWT · asyncio · Node.js · Express |
+| **Frontend** | React · Vite · Tailwind CSS |
+| **AI / LLM** | LLM integration · Ollama · Llama 3.2 · prompt engineering for structured data extraction |
+| **DevOps & tools** | pytest · mypy · Docker · GitHub Actions (CI/CD) · Git · Linux · Vercel · Twilio API · Postman |
 
 ---
 
-### 🔌 TECH_STACK_MATRIX
+## Background
 
-<div align="center">
-  <table width="600" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
-    <tr>
-      <td colspan="2" align="center" style="background-color: #161B22; border-bottom: 1px solid #30363D; padding: 10px;">
-        <code style="color: #8B949E;">[ STACK ENUMERATION ]</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
-        <b style="color: #39FF14;">CORE_LANG:</b>
-      </td>
-      <td width="70%" style="padding: 15px 15px 5px 10px;">
-        <code>Python &bull; TypeScript &bull; JavaScript</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
-        <b style="color: #00FFCC;">CLI_UX:</b>
-      </td>
-      <td width="70%" style="padding: 15px 15px 5px 10px;">
-        <code>Rich (Terminal UI) &bull; Advanced Logging</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
-        <b style="color: #8A2BE2;">WEBAPP:</b>
-      </td>
-      <td width="70%" style="padding: 15px 15px 5px 10px;">
-        <code>Django &bull; Express &bull; Node.js &bull; REST API</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="right" style="padding: 15px 10px 15px 15px;">
-        <b style="color: #FF0055;">ENV:</b>
-      </td>
-      <td width="70%" style="padding: 15px 15px 15px 10px;">
-        <code>Linux-First &bull; Git Internals &bull; Docker</code>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🚀 FLAGSHIP_MODULES
-
-<div align="center">
-  <table width="600" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
-    <tr>
-      <td colspan="2" align="center" style="background-color: #161B22; border-bottom: 1px solid #30363D; padding: 10px;">
-        <code style="color: #8B949E;">[ DEPLOYED ARCHITECTURE ]</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
-        <b style="color: #00FFCC;">[ 🔐 Nyxora ]</b>
-      </td>
-      <td width="70%" style="padding: 15px 15px 5px 10px;">
-        <code>Zero-knowledge secure vault.</code><br>
-        <code style="color: #8B949E;">▹ Secure encryption model</code><br>
-        <code style="color: #8B949E;">▹ CLI-driven UX natively scalability</code>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🧠 ENGINEERING_PHILOSOPHY
-
-<div align="center">
-  <table width="600" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
-    <tr>
-      <td align="center" style="background-color: #161B22; border-bottom: 1px solid #30363D; padding: 10px;">
-        <code style="color: #8B949E;">[ CORE DIRECTIVES ]</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 20px 15px 20px 15px;">
-        <code><span style="color:#FF0055">systems</span> > <span style="color:#8B949E">scripts</span></code> &nbsp;&bull;&nbsp;
-        <code><span style="color:#00FFCC">architecture</span> > <span style="color:#8B949E">hacks</span></code><br><br>
-        <code><span style="color:#39FF14">cli_ux</span> == <span style="color:#FFFFFF">critical</span></code> &nbsp;&bull;&nbsp;
-        <code><span style="color:#8A2BE2">security</span> >= <span style="color:#FFFFFF">everything</span></code>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📊 METRICS_&_TELEMETRY
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scorpiocodex&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=8A2BE2&currStreakLabel=39FF14" alt="GitHub Streak" />
-</div>
-
-> _`SYS_NOTE`: Routine telemetry displays are streamlined for optimal performance. Experimental API stats modules have been decoupled._
-
----
-
-### 🛰️ CURRENT_TRAJECTORY
-
-<div align="center">
-  <table width="600" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
-    <tr>
-      <td colspan="2" align="center" style="background-color: #161B22; border-bottom: 1px solid #30363D; padding: 10px;">
-        <code style="color: #8B949E;">[ ACTIVE OPERATIONS ]</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
-        <b style="color: #00FFCC;">🧠 Learning:</b>
-      </td>
-      <td width="70%" style="padding: 15px 15px 5px 10px;">
-        <code>Advanced Django & deep backend scaling</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
-        <b style="color: #8A2BE2;">🏗️ Mastering:</b>
-      </td>
-      <td width="70%" style="padding: 15px 15px 5px 10px;">
-        <code>REST architecture and API design patterns</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="right" style="padding: 15px 10px 5px 15px;">
-        <b style="color: #39FF14;">🛠️ Building:</b>
-      </td>
-      <td width="70%" style="padding: 15px 15px 5px 10px;">
-        <code>Next-gen CLI frameworks for modern devs</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="right" style="padding: 15px 10px 15px 15px;">
-        <b style="color: #FF0055;">🔐 Deepening:</b>
-      </td>
-      <td width="70%" style="padding: 15px 15px 15px 10px;">
-        <code>Security engineering & zero-trust principles</code>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📧 SECURE_HANDSHAKE
-
-<div align="center">
-  <a href="https://github.com/scorpiocodex">
-    <img src="https://img.shields.io/badge/GitHub-scorpiocodex-111111?style=for-the-badge&logo=github&logoColor=00FFCC" alt="GitHub"/>
-  </a>
-  <a href="mailto:scorpiocodex0@gmail.com">
-    <img src="https://img.shields.io/badge/Comm-Encrypted_Channel-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=ffffff" alt="Email"/>
-  </a>
-</div>
-
-<br/>
-
-<p align="center">
-  <small><code>sys.exit(0) // SCORPIOCODEX_ARCHITECTURE_END</code></small>
-</p>
+- Bachelor of Information Technology, Victoria University (major in Networking, minor in Programming)
+- Software & AI Engineering Program, Scaler Academy (Nov 2026)
