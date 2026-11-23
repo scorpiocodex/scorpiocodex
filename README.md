@@ -32,7 +32,7 @@ A WhatsApp-first bakery order management platform, built end to end during my fu
 - FastAPI and PostgreSQL backend with Celery and Redis for background jobs
 - Two React/Vite front ends (owner dashboard and customer ordering app), all run in Docker Compose
 - A local Llama 3.2 model (via Ollama) turns free-text WhatsApp orders in English and Manglish into validated carts, at zero API cost
-- 385 automated tests and 28 architecture decision records
+- 396 automated tests and 30 architecture decision records
 
 ### [ScorpioWatch](https://github.com/scorpiocodex/scorpiowatch) &nbsp;·&nbsp; [PyPI](https://pypi.org/project/scorpiowatch/)
 
