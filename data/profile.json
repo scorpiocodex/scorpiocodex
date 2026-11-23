@@ -31,6 +31,7 @@
   "projects": [
     {
       "name": "BakeriQ",
+      "short": "WhatsApp-first bakery order management",
       "repo": "bakeriq",
       "pypi": null,
       "icon": "chat",
@@ -46,6 +47,7 @@
     },
     {
       "name": "ScorpioWatch",
+      "short": "Event-driven automation engine and CLI",
       "repo": "scorpiowatch",
       "pypi": "scorpiowatch",
       "icon": "eye",
@@ -59,6 +61,7 @@
     },
     {
       "name": "Nyxora",
+      "short": "Offline terminal password manager",
       "repo": "Nyxora",
       "pypi": "nyxora",
       "icon": "lock",

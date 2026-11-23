@@ -2,8 +2,6 @@
 
 from __future__ import annotations
 
-import textwrap
-
 from . import kit
 from .activity import _panel
 from .kit import C, esc, icon, keyframes, mono_width
@@ -15,8 +13,7 @@ FLOAT_CSS = keyframes("fl", "0%,100%{transform:translateY(0)}50%{transform:trans
 
 def project_card(project: dict, login: str) -> str:
     color = project["color"]
-    tagline = textwrap.wrap(project["tagline"], width=66)[:3]
-    h = 118 + len(tagline) * 26 + 52
+    h = 190
     defs, panel = _panel(W, h, color)
 
     body = [panel, f'<rect x="0" y="3" width="6" height="{h - 6}" fill="{color}" opacity=".9"/>']
@@ -36,8 +33,7 @@ def project_card(project: dict, login: str) -> str:
         f'<text class="m" x="{W - 44 - bw / 2:.1f}" y="63" font-size="14" text-anchor="middle" fill="{C["text"]}">{esc(badge)}</text>'
     )
 
-    for i, line in enumerate(tagline):
-        body.append(f'<text x="170" y="{128 + i * 26}" font-size="19" fill="#C9D1D9">{esc(line)}</text>')
+    body.append(f'<text x="170" y="126" font-size="22" fill="#C9D1D9">{esc(project["short"])}</text>')
 
     x, y = 170.0, h - 52
     for i, chip in enumerate(project["chips"]):
@@ -48,7 +44,7 @@ def project_card(project: dict, login: str) -> str:
     return kit.svg(
         W, h, "".join(body),
         title=f"{project['name']} project card",
-        desc=f"{project['name']}: {project['tagline']} Built with {', '.join(project['chips'])}.",
+        desc=f"{project['name']}: {project['short']}. Built with {', '.join(project['chips'])}.",
         css=kit.PILL_CSS + FLOAT_CSS, fonts=("display", "mono"), defs=defs,
     )
 
