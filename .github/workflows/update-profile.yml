@@ -1,0 +1,76 @@
+name: Update profile images
+
+# Pull requests build and validate only. Pushes to main, the weekly schedule and
+# manual runs also commit the refreshed images (only when something changed).
+on:
+  schedule:
+    - cron: "23 3 * * 1" # Mondays, 03:23 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "profilegen/**"
+      - "build.py"
+      - "data/**"
+      - "assets/fonts/**"
+      - ".github/workflows/update-profile.yml"
+  pull_request:
+    paths:
+      - "profilegen/**"
+      - "build.py"
+      - "data/**"
+      - "assets/fonts/**"
+      - "README.md"
+      - "tests/**"
+      - ".github/workflows/update-profile.yml"
+
+# Nothing by default; each job asks for exactly what it needs.
+permissions: {}
+
+concurrency:
+  group: profile-images-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  check:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Unit tests
+        run: python3 -m unittest discover -s tests -t . -v
+      - name: Render and validate (nothing is written)
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 build.py --check
+
+  refresh:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Unit tests
+        run: python3 -m unittest discover -s tests -t . -v
+      - name: Render images from live GitHub data
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 build.py
+      - name: Check the refreshed images and README
+        run: python3 -m unittest tests.test_assets -v
+      - name: Commit refreshed images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated
+          if git diff --cached --quiet; then
+            echo "Images are up to date; nothing to commit."
+          else
+            git commit -m "chore(profile): refresh generated images"
+            git push
+          fi
