@@ -30,6 +30,20 @@ class RenderTests(unittest.TestCase):
         expected |= {f"project-{p['repo'].lower()}.svg" for p in self.profile["projects"]}
         self.assertEqual(set(self.files), expected)
 
+    def test_social_cards_exist_for_every_project_and_are_valid(self):
+        cards = build.render_social(self.profile)
+        self.assertEqual(set(cards), {f"{p['repo'].lower()}.svg" for p in self.profile["projects"]})
+        for name, text in cards.items():
+            with self.subTest(name):
+                self.assertEqual(validate.problems(text, f"social/{name}"), [])
+                self.assertIn('viewBox="0 0 1280 640"', text)
+
+    def test_social_cards_show_only_facts_from_the_data_file(self):
+        for project in self.profile["projects"]:
+            text = build.render_social(self.profile)[f"{project['repo'].lower()}.svg"]
+            self.assertIn(project["name"], text)
+            self.assertIn(project["short"], text)
+
     def test_rendering_is_deterministic(self):
         again = build.render_all(self.profile, sample_data())
         self.assertEqual(self.files, again)

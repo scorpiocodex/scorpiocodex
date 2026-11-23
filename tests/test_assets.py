@@ -2,6 +2,7 @@
 
 import json
 import re
+import struct
 import unittest
 from pathlib import Path
 
@@ -27,6 +28,24 @@ class CommittedImagesTests(unittest.TestCase):
         expected = set(build.render_all(PROFILE, sample_data()))
         present = {p.name for p in (ROOT / "assets" / "generated").glob("*.svg")}
         self.assertEqual(expected - present, set())
+
+
+class SocialPreviewTests(unittest.TestCase):
+    """The repository preview cards: SVG source plus the PNG exported for GitHub."""
+
+    def test_every_card_has_valid_source_and_a_png_within_githubs_limits(self):
+        for project in PROFILE["projects"]:
+            name = project["repo"].lower()
+            svg = ROOT / "assets" / "social" / f"{name}.svg"
+            png = ROOT / "assets" / "social" / f"{name}.png"
+            with self.subTest(name):
+                self.assertTrue(svg.is_file() and png.is_file(), "missing .svg or .png; export it from the SVG")
+                self.assertEqual(validate.problems(svg.read_text(encoding="utf-8"), svg.name), [])
+                data = png.read_bytes()
+                self.assertEqual(data[:8], b"\x89PNG\r\n\x1a\n")
+                width, height = struct.unpack(">II", data[16:24])
+                self.assertEqual((width, height), (1280, 640))
+                self.assertLess(len(data), 1_000_000, "GitHub rejects social previews of 1 MB or more")
 
 
 class ReadmeTests(unittest.TestCase):
