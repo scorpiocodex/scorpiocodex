@@ -1,0 +1,86 @@
+{
+  "_comment": "Single source for every fact the generated images show. Wording is copied from the portfolio, the resume and the project READMEs; nothing here is invented. Edit this file, run `python3 build.py`, commit.",
+  "name": "San Shibu",
+  "handle": "scorpiocodex",
+  "role": "Python full-stack developer",
+  "location": "Kerala, India",
+  "headline": ["Building", "Full-Stack", "Apps & Dev Tools."],
+  "subheadline": [
+    "FastAPI & React applications.",
+    "LLM-powered automation.",
+    "Open-source Python on PyPI."
+  ],
+  "links": {
+    "portfolio": "https://san-shibu.vercel.app",
+    "linkedin": "https://www.linkedin.com/in/san-shibu-8250a9178/",
+    "email": "sanshibu.dev@gmail.com"
+  },
+  "terminal": {
+    "title": "~/projects — zsh",
+    "label": "SIMULATED SESSION"
+  },
+  "banner_pills": [
+    {"label": "FastAPI", "icon": "bolt"},
+    {"label": "PostgreSQL", "icon": "database"},
+    {"label": "React", "icon": "atom"},
+    {"label": "Celery", "icon": "layers"},
+    {"label": "Docker", "icon": "box"},
+    {"label": "Ollama LLMs", "icon": "chat"}
+  ],
+  "bakeriq_facts": {"tests": 385, "adrs": 28},
+  "projects": [
+    {
+      "name": "BakeriQ",
+      "repo": "bakeriq",
+      "pypi": null,
+      "icon": "chat",
+      "color": "#00E5FF",
+      "tagline": "A WhatsApp-first bakery order management platform, built end to end during my full-stack internship at Digital Mesh Softech.",
+      "chips": ["FastAPI", "PostgreSQL", "React", "Docker"],
+      "bullets": [
+        "FastAPI and PostgreSQL backend with Celery and Redis for background jobs",
+        "Two React/Vite front ends (owner dashboard and customer ordering app), all run in Docker Compose",
+        "A local Llama 3.2 model (via Ollama) turns free-text WhatsApp orders in English and Manglish into validated carts, at zero API cost",
+        "{tests} automated tests and {adrs} architecture decision records"
+      ]
+    },
+    {
+      "name": "ScorpioWatch",
+      "repo": "scorpiowatch",
+      "pypi": "scorpiowatch",
+      "icon": "eye",
+      "color": "#7C3AED",
+      "tagline": "An event-driven automation engine: it watches files, matches glob triggers and runs your commands through the swatch CLI.",
+      "chips": ["Python", "CLI", "mypy --strict", "PyPI"],
+      "bullets": [
+        "Commands run with no shell and an allow-listed environment; per-step timeouts stop the whole process group",
+        "100% test coverage with mypy --strict; releases ship through GitHub Actions and PyPI Trusted Publishing"
+      ]
+    },
+    {
+      "name": "Nyxora",
+      "repo": "Nyxora",
+      "pypi": "nyxora",
+      "icon": "lock",
+      "color": "#3FB950",
+      "tagline": "An offline terminal password manager with a Textual TUI: Argon2id, XChaCha20-Poly1305 and per-entry HMAC integrity checks.",
+      "chips": ["Python", "Textual", "Argon2id", "PyPI"],
+      "bullets": [
+        "Cross-platform CI with secret scanning, dependency CVE checks and 8 required merge checks",
+        "A personal project; it has not been independently audited"
+      ]
+    }
+  ],
+  "stack": [
+    {"area": "Languages", "color": "#00E5FF", "items": ["Python", "JavaScript", "SQL", "HTML/CSS"]},
+    {"area": "Backend", "color": "#58A6FF", "items": ["FastAPI", "Celery", "Redis", "PostgreSQL", "SQLAlchemy", "Alembic", "REST APIs", "JWT", "asyncio", "Node.js", "Express"]},
+    {"area": "Frontend", "color": "#7C3AED", "items": ["React", "Vite", "Tailwind CSS"]},
+    {"area": "AI / LLM", "color": "#3FB950", "items": ["LLM integration", "Ollama", "Llama 3.2", "prompt engineering for structured data extraction"]},
+    {"area": "DevOps & tools", "color": "#F0883E", "items": ["pytest", "mypy", "Docker", "GitHub Actions (CI/CD)", "Git", "Linux", "Vercel", "Twilio API", "Postman"]}
+  ],
+  "background": [
+    "Bachelor of Information Technology, Victoria University (major in Networking, minor in Programming)",
+    "Software & AI Engineering Program, Scaler Academy (Nov 2026)"
+  ],
+  "excluded_repos_from_language_stats": ["scorpiocodex"]
+}
