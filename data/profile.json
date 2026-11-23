@@ -27,7 +27,7 @@
     {"label": "Docker", "icon": "box"},
     {"label": "Ollama LLMs", "icon": "chat"}
   ],
-  "bakeriq_facts": {"tests": 396, "adrs": 30},
+  "bakeriq_facts": {"tests": 418, "adrs": 32},
   "projects": [
     {
       "name": "BakeriQ",
